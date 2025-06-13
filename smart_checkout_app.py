@@ -10,7 +10,7 @@ from utils import get_price_map, get_class_names
 # ---------------------
 # CONFIGURATION
 # ---------------------
-MODEL_URL = https://storage.googleapis.com/object-detection-retail/models/best.pt
+MODEL_URL = "https://storage.googleapis.com/object-detection-retail/models/best.pt"
 LOCAL_PATH = "best.pt"
 CLASS_NAMES = get_class_names()
 PRICE_MAP = get_price_map()
