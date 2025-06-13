@@ -19,8 +19,7 @@ Traditional checkout systems rely heavily on barcode scanners, which can be slow
 
 ---
 
-* 🔗 [Demo Video](https://www.youtube.com/watch?v=O6A4aHhVnRo)
-* 🌐 [Live Demo App](https://smart-retail-checkout.streamlit.app/)
+* 🔗 [Demo Video](https://youtu.be/VVNP3Kgs00I)
 
 
 ## 📃 Class Labels
