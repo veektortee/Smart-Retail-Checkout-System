@@ -116,12 +116,6 @@ The Streamlit app sums detected items based on this mapping.
 
 ---
 
-## 📡 Contact
-
-For contributions, suggestions, or issues, reach out to [victortaiwo52@gmail.com](mailto:victortaiwo52@gmail.com) or raise an issue on the repo.
-
----
-
 ## 🪪 License
 
 This project is licensed under the Apache License 2.0. See the `LICENSE` file for details.
