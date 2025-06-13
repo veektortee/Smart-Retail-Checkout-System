@@ -23,7 +23,7 @@ EXAMPLE_IMAGE_PATH = "1082ae68-33Booooox_jpg.rf.b1324bf46bbd1400bf00c476877b8b4f
 if not os.path.exists(LOCAL_PATH):
     with open(LOCAL_PATH, "wb") as f:
         f.write(requests.get(MODEL_URl).content)
-model = YOLO(MODEL_PATH)
+model = YOLO(LOCAL_PATH)
 
 # ---------------------
 # STREAMLIT UI
