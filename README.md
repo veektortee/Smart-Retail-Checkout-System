@@ -125,7 +125,7 @@ For contributions, suggestions, or issues, reach out to [victortaiwo52@gmail.com
 
 ## 🪪 License
 
-This project is licensed under the Apahce License 2.0. See the `LICENSE` file for details.
+This project is licensed under the Apache License 2.0. See the `LICENSE` file for details.
 
 ---
 
