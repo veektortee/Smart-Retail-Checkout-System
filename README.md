@@ -1,16 +1,16 @@
-# 🛒 Smart Retail Object Detection System
+# Smart Retail Object Detection System
 
 A full end-to-end system that uses YOLOv8 to detect and classify retail products from images. It simulates a smart checkout experience by identifying products and calculating total cost based on class-level pricing.
 
 ---
 
-## 🔍 Project Motivation
+## Project Motivation
 
 Traditional checkout systems rely heavily on barcode scanners, which can be slow and require manual effort. This project demonstrates how computer vision can replace barcode scanners in a retail setting, leading to faster, automated, and more flexible checkout systems.
 
 ---
 
-## 🧠 Key Features
+## Key Features
 
 * Fine-tuned YOLOv8 model on a retail-specific dataset
 * Object detection and classification of 22 retail product types
@@ -19,10 +19,10 @@ Traditional checkout systems rely heavily on barcode scanners, which can be slow
 
 ---
 
-* 🔗 [Demo Video](https://youtu.be/VVNP3Kgs00I)
+* [Demo Video](https://youtu.be/VVNP3Kgs00I)
 
 
-## 📃 Class Labels
+## Class Labels
 
 The model recognizes multiple retail product classes. For the full list of class labels, please refer to the class definitions in `utils.py`.
 
@@ -34,7 +34,7 @@ The model recognizes multiple retail product classes. For the full list of class
 
 ---
 
-## 🚀 Setup Instructions
+## Setup Instructions
 
 ### 1. Clone the Repository
 
@@ -70,7 +70,7 @@ results[0].show()
 
 ---
 
-## 🛋️ Price Assignment
+## Price Assignment
 
 You can set a dictionary of class prices in `utils.py`, for example:
 
@@ -100,7 +100,7 @@ The Streamlit app sums detected items based on this mapping.
 
 ---
 
-## 🚤 Future Work
+## Future Work
 
 * Add barcode reader fallback for ambiguous products
 * Improve handling of overlapping detections
@@ -109,14 +109,14 @@ The Streamlit app sums detected items based on this mapping.
 
 ---
 
-## 🙌 Acknowledgements
+## Acknowledgements
 
 * [Ultralytics YOLOv8](https://github.com/ultralytics/ultralytics)
 * [Roboflow](https://roboflow.com/) for dataset generation and formatting
 
 ---
 
-## 🪪 License
+## License
 
 This project is licensed under the Apache License 2.0. See the `LICENSE` file for details.
 
