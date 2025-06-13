@@ -10,7 +10,7 @@ from utils import get_price_map, get_class_names
 # ---------------------
 # CONFIGURATION
 # ---------------------
-LOCAL_PATH = "best.pt"
+LOCAL_PATH = "best_model.pt" # once you have your model saved locally
 CLASS_NAMES = get_class_names()
 PRICE_MAP = get_price_map()
 EXAMPLE_IMAGE_PATH = "1082ae68-33Booooox_jpg.rf.b1324bf46bbd1400bf00c476877b8b4f.jpg"  # Optional: path to a sample image. Can adjust to yours.
